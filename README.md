@@ -40,11 +40,11 @@ To eliminate expensive monthly SaaS dependencies and fix performance bottlenecks
 Beyond building custom tools, I manage the server management pipelines across our client network, optimizing their speeds and maintaining tight data security:
 
 ### 1. Advanced Cloud & Server Infrastructure Control
-*   **Multi-Tier Hosting Management:** Configure, maintain, and monitor websites across heavy cloud structures including **AWS Lightsail, Google Cloud Platform (GCP), and Cloudways**, alongside managed shared hosting spaces such as **Afrihost, Domains.co.za, Hostinger, GoDaddy, and Namecheap**.
+*   **Multi-Tier Hosting Management:** Configure, maintain, and monitor websites across heavy cloud structures including **AWS Lightsail, Google Cloud Platform (GCP), and Cloudways**, alongside managed shared hosting spaces such as **Afrihost, Domains.co.za,Bluehost, Interserver.net, Hostinger, GoDaddy, and Namecheap**.
 *   **Linux System Administration:** Run server operations using the **cPanel WHM Management Panel, Command Terminal, and secure SSH Access** to update system rules, optimize database execution parameters, configure memory limits, and trace core performance logs.
 *   **Relational Database Hygiene:** Perform regular maintenance schedules using **phpMyAdmin** to optimize tables, clean database transient bloating caused by tracking tags, and index relational database tables to keep load times under 200ms.
 
 ### 2. Transaction Engineering & E-Commerce Optimization
 *   **Decoupled Checkout Paths:** Build secure checkout paths utilizing **WooCommerce Core and SureCart** ecosystems to ensure transactions process smoothly and securely.
-*   **Multi-Gateway Matrix Switch:** Integrate payment paths across regional and global transaction processing tools, supporting **Stripe, PayPal, Paynow, Yoco, and 543 Konse (Zambia)** based on the active payment gateways toggled by the system administrator.
+*   **Multi-Gateway Matrix Switch:** Integrate payment paths across regional and global transaction processing tools, supporting **Stripe, Payoneer, Surecart Payments** based on the active payment gateways toggled by the system administrator.
 *   **E-Commerce Performance Architecture:** While I do not design graphics or frontend interfaces directly, I apply deep **Elementor core engine knowledge** to technical configuration layouts. I audit and tune script execution orders on large e-commerce platforms, selectively disabling heavy style assets and tracking scripts on checkout pages to maximize global gateway conversion rates and protect client sales pipelines.
